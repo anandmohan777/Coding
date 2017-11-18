@@ -1,0 +1,3 @@
+# Coding
+
+All coding practises.
