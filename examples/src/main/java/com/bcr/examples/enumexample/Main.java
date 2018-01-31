@@ -1,4 +1,4 @@
-package bcr.examples.enumexample;
+package com.bcr.examples.enumexample;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package bcr.examples.collections2;
+package com.bcr.examples.collections2;
 
 import java.util.ArrayList;
 import java.util.Collection;

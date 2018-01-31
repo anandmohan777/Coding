@@ -1,4 +1,4 @@
-package bcr.examples.enumexample;
+package com.bcr.examples.enumexample;
 
 public enum Type {
 

@@ -1,11 +1,11 @@
-package bcr.examples.collections2;
+package com.bcr.examples.collections2;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
+import com.bcr.examples.enumexample.Type;
 import com.google.common.base.Function;
 import com.google.common.collect.Collections2;
-import com.learning.bcr.examples.enumexample.Type;
 
 class SampleObject{
 	int id;
